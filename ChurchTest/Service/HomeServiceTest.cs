@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChurchTest.Service
 {
-    class HomeServiceTest
+    public class HomeServiceTest
     {
     }
 }
