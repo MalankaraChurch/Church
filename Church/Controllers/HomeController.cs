@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Church.Controllers
 {
-    [Route("church/home")]
+    [Route("churchapi/home")]
     [ApiController]
     public class HomeController : ControllerBase
     {
